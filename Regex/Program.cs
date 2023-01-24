@@ -5,5 +5,9 @@
 //name.FirstName();
 
 //Regex for Lastname
-RegexLastName name = new RegexLastName();
-name.LastName();
+//RegexLastName name = new RegexLastName();
+//name.LastName();
+
+//Regex Code for Email
+RegexEmail email = new RegexEmail();
+email.Email();
