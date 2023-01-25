@@ -17,5 +17,9 @@
 //phonenumber.Phonenumber();
 
 //Regex Code for PasswordCreations
-PasswordCreation password=new PasswordCreation();
-password.Password();
+//PasswordCreation password=new PasswordCreation();
+//password.Password();
+
+//Regex Code for SampleEmail-Id
+sampleEmailsID emailsID=new sampleEmailsID();
+emailsID.SampleEmail();
