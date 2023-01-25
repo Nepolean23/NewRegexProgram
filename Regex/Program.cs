@@ -13,5 +13,9 @@
 //email.Email();
 
 //Regex Code for Phonenumber
-RegexPhonenumber phonenumber= new RegexPhonenumber();
-phonenumber.Phonenumber();
+//RegexPhonenumber phonenumber= new RegexPhonenumber();
+//phonenumber.Phonenumber();
+
+//Regex Code for PasswordCreations
+PasswordCreation password=new PasswordCreation();
+password.Password();
