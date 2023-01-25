@@ -9,5 +9,9 @@
 //name.LastName();
 
 //Regex Code for Email
-RegexEmail email = new RegexEmail();
-email.Email();
+//RegexEmail email = new RegexEmail();
+//email.Email();
+
+//Regex Code for Phonenumber
+RegexPhonenumber phonenumber= new RegexPhonenumber();
+phonenumber.Phonenumber();
